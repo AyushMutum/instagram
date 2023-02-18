@@ -1,0 +1,126 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.insta-page{
+    width: 300px;
+    height: 600px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image{
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 0;
+    
+}
+.high1{
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+
+.comment1{
+    margin-top: 0;
+}
+.comment2{
+    margin-top: 0;
+}
+.high2{
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 0;
+    margin-right: 5px;
+}
+
+
+.name{
+    margin-top: 0;
+    padding-left: 5px;
+    margin-bottom: 0;
+}
+.profile-flex{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-bottom: 0;
+}
+
+.edit{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.editprofile{
+    border: 1px solid black;
+    padding: 5px 25px 5px 25px;
+    border-radius: 5px
+}
+
+.shareprofile{
+    border: 1px solid black;
+    padding: 5px 25px 5px 25px;
+    border-radius: 5px
+}
+
+.addpeople{
+    border: 1px solid black;
+    padding: 2px 4px 2px 4px;
+    border-radius: 5px
+}
+
+.hightlights{
+    display: flex;
+}
+
+
+.post{
+    display: flex;
+    justify-content: center;
+}
+
+.post1{
+    
+    margin-right: 100px;
+}
+
+.post-section{
+    /* width: 300px; */
+  margin-top: 5px;
+    border:1px solid black;
+}
+
+.logo{
+    border: 1px solid black;
+    width: 37px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+   
+    margin-top: 130px;
+    margin-left: 120px;
+}
+
+.last1{
+   margin-top: 0;
+    margin-left: 122px;
+}
